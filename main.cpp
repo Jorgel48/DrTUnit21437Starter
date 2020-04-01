@@ -46,9 +46,15 @@ int main()
     vd.push_back(2);
     vd.push_back(3);
 
-    //add 3 elements to the vi vector
+    //add 3 elements to the vi (vector)
+    vi.push_back(1);
+    vi.push_back(2);
+    vi.push_back(3);
 
-   // add 3 elements to the vs vector
+    //add 3 elements to the vs vector  
+    vs.push_back(1);
+    vs.push_back(2);
+    vs.push_back(3);
 
    // display the 3 elements in the vd vector
    cout << "\nValues in vd: \n"; 
